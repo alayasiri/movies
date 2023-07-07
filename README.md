@@ -34,6 +34,17 @@ Running analysis on the MovieLens dataset taht contains 20 million ratings spann
 <a>After identifying the scope of the project and the business requirements, the team began to map out the schema and enetity relationship diagram. Here, we defined the relationships, primary and foreign keys, cardinality, and other relevant metadata. Using MySQL's reverse engineering capabilities, we were able to create the data definition language (DDL) from the logical and conceptual schema. From there, using the Data Import Wizard in MySQL, we were able to load the csv files into the database. 
 We were then able to query, create joins and views, and peform our analysis on the data. 
 </a>
+
+<h2>Tableau Storyboard:</h2>
+<a>
+  After performing our analysis, we presented the relevant insights and recommendations into a presentation.
+</a>
+<br />
+<a> 
+  
+  [You can downlad the final presentation here](https://github.com/alayasiri/movies-buan/blob/4e1362a169d5acc9f1ccdd15b999c89ba7e8dfef/movie_presentation.pdf).
+</a>
+
 <!--
 <h2>Cleaning and Normalizing:</h2>
 
