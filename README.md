@@ -35,7 +35,7 @@ Running analysis on the MovieLens dataset taht contains 20 million ratings spann
 We were then able to query, create joins and views, and peform our analysis on the data. 
 </a>
 
-<h2>Tableau Storyboard:</h2>
+<h2>Final Presentation:</h2>
 <a>
   After performing our analysis, we presented the relevant insights and recommendations into a presentation.
 </a>
